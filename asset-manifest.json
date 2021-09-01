@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "//stefanlederhaas.github.io/pathfind-app/static/css/main.12d2e363.chunk.css",
+    "main.css": "//stefanlederhaas.github.io/pathfind-app/static/css/main.6c786fa1.chunk.css",
     "main.js": "//stefanlederhaas.github.io/pathfind-app/static/js/main.337c047f.chunk.js",
     "main.js.map": "//stefanlederhaas.github.io/pathfind-app/static/js/main.337c047f.chunk.js.map",
     "runtime-main.js": "//stefanlederhaas.github.io/pathfind-app/static/js/runtime-main.2676f753.js",
@@ -10,13 +10,13 @@
     "static/js/3.563505e0.chunk.js": "//stefanlederhaas.github.io/pathfind-app/static/js/3.563505e0.chunk.js",
     "static/js/3.563505e0.chunk.js.map": "//stefanlederhaas.github.io/pathfind-app/static/js/3.563505e0.chunk.js.map",
     "index.html": "//stefanlederhaas.github.io/pathfind-app/index.html",
-    "static/css/main.12d2e363.chunk.css.map": "//stefanlederhaas.github.io/pathfind-app/static/css/main.12d2e363.chunk.css.map",
+    "static/css/main.6c786fa1.chunk.css.map": "//stefanlederhaas.github.io/pathfind-app/static/css/main.6c786fa1.chunk.css.map",
     "static/js/2.f97a7b6f.chunk.js.LICENSE.txt": "//stefanlederhaas.github.io/pathfind-app/static/js/2.f97a7b6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2676f753.js",
     "static/js/2.f97a7b6f.chunk.js",
-    "static/css/main.12d2e363.chunk.css",
+    "static/css/main.6c786fa1.chunk.css",
     "static/js/main.337c047f.chunk.js"
   ]
 }
