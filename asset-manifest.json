@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "//stefanlederhaas.github.io/pathfind-app/static/css/main.96611b21.chunk.css",
-    "main.js": "//stefanlederhaas.github.io/pathfind-app/static/js/main.94141820.chunk.js",
-    "main.js.map": "//stefanlederhaas.github.io/pathfind-app/static/js/main.94141820.chunk.js.map",
+    "main.js": "//stefanlederhaas.github.io/pathfind-app/static/js/main.c8bf8bcd.chunk.js",
+    "main.js.map": "//stefanlederhaas.github.io/pathfind-app/static/js/main.c8bf8bcd.chunk.js.map",
     "runtime-main.js": "//stefanlederhaas.github.io/pathfind-app/static/js/runtime-main.a32e6384.js",
     "runtime-main.js.map": "//stefanlederhaas.github.io/pathfind-app/static/js/runtime-main.a32e6384.js.map",
     "static/js/2.c06c28de.chunk.js": "//stefanlederhaas.github.io/pathfind-app/static/js/2.c06c28de.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a32e6384.js",
     "static/js/2.c06c28de.chunk.js",
     "static/css/main.96611b21.chunk.css",
-    "static/js/main.94141820.chunk.js"
+    "static/js/main.c8bf8bcd.chunk.js"
   ]
 }
